@@ -1,0 +1,7 @@
+﻿  Define.h
+  Game.cpp
+  Init.cpp
+  Print.cpp
+  main.cpp
+Game.obj : error LNK2001: 无法解析的外部符号 "int score" (?score@@3HA)
+D:\CodeCenter_HFLY\Cpp-repository\Cpp_2026_4_27_扫雷完整版\x64\Release\Cpp_2026_4_27_扫雷完整版.exe : fatal error LNK1120: 1 个无法解析的外部命令
