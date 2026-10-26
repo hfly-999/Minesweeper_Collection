@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Init.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|solutionrelative:Init.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|solutionrelative:Define.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Print.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|solutionrelative:Print.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Print.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|solutionrelative:Print.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Init.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|solutionrelative:Init.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C20EE00D-4ECF-4819-A2A1-4C2A73D6106F}|Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 199,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.h",
+              "DocumentMoniker": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-27T02:11:04.374Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Init.h",
+              "DocumentMoniker": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Init.h",
+              "RelativeDocumentMoniker": "Init.h",
+              "ToolTip": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Init.h",
+              "RelativeToolTip": "Init.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-27T05:44:38.743Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Define.h",
+              "DocumentMoniker": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Define.h",
+              "RelativeDocumentMoniker": "Define.h",
+              "ToolTip": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Define.h",
+              "RelativeToolTip": "Define.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-27T11:35:18.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T02:10:37.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Print.h",
+              "DocumentMoniker": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Print.h",
+              "RelativeDocumentMoniker": "Print.h",
+              "ToolTip": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Print.h",
+              "RelativeToolTip": "Print.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-27T05:46:18.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T02:10:55.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Init.cpp",
+              "DocumentMoniker": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Init.cpp",
+              "RelativeDocumentMoniker": "Init.cpp",
+              "ToolTip": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Init.cpp",
+              "RelativeToolTip": "Init.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T05:45:11.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Print.cpp",
+              "DocumentMoniker": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Print.cpp",
+              "RelativeDocumentMoniker": "Print.cpp",
+              "ToolTip": "D:\\CodeCenter_HFLY\\Cpp-repository\\Cpp_2026_4_27_\u626B\u96F7\u5B8C\u6574\u7248\\Print.cpp",
+              "RelativeToolTip": "Print.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T05:46:29.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
